@@ -1,0 +1,11 @@
+Color:	RGB:	              HEX:
+Green	  RGB(0, 128, 0)	    #008000
+Olive 	RGB(128, 128, 0)	  #808000
+Blue	  RGB(0, 0, 255)	    #0000FF
+Black	  RGB(0, 0, 0)	      #000000
+White	  RGB(255, 255, 255)	#FFFFFF
+Aqua	  RGB(0, 255, 255)	  #00FFFF
+Gray	  RGB(128, 128, 128)	#808080
+Silver	RGB(192, 192, 192)	#C0C0C0
+Navy	  RGB(0, 0, 128)	    #000080
+Yellow	RGB(255, 255, 0)	  #FFFF00
